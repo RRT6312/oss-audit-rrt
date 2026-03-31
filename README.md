@@ -74,7 +74,7 @@ Run example:./script4.sh /var/log/syslog error
 ## ⚙️ How to Run
 
 1. Navigate to project folder:
-cd oss-audit-24bai10252
+cd OSSCapstone
 
 2. Give execution permission:
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
