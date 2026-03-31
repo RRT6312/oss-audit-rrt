@@ -96,4 +96,4 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 ---
 
 ## 📎 GitHub Link
-https://github.com/anu-shka-5/oss-audit-24bai10252
+https://github.com/RRT6312/oss-audit-rrt
